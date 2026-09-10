@@ -1,0 +1,7 @@
+export const testimonials = [
+  { id: 1, name: 'Jamie D.', role: 'Arizona Daily Star', rating: 5, text: 'Best Kaiju smash yet — Japanese-inspired toppings make it unlike anything downtown.', avatar: 'https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=160&h=160&fit=crop&auto=format', avatarAlt: 'Jamie' },
+  { id: 2, name: 'Yasmine G.', role: 'Food hall guest', rating: 5, text: 'Portions are huge. Would love a simple site for hours before walking downtown.', avatar: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=160&h=160&fit=crop&auto=format', avatarAlt: 'Yasmine' },
+  { id: 3, name: 'Alex T.', role: 'Double-patty fan', rating: 5, text: 'Polished off a double with no problem. Godzilla vibes, serious burger.', avatar: 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=160&h=160&fit=crop&auto=format', avatarAlt: 'Alex' },
+  { id: 4, name: 'Priya M.', role: 'Matcha soft serve', rating: 5, text: 'Smash then matcha soft serve — perfect combo. IG-only is a miss for Maps.', avatar: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=160&h=160&fit=crop&auto=format', avatarAlt: 'Priya' },
+  { id: 5, name: 'Sam R.', role: 'IG follower', rating: 5, text: 'Follow @kaijuburgeraz — the feed deserves a real homepage.', avatar: 'https://images.unsplash.com/photo-1487412720507-e7ab130641c0?w=160&h=160&fit=crop&auto=format', avatarAlt: 'Sam' },
+]
